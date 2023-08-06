@@ -1,3 +1,5 @@
+## _Link to the Demo Video_
+[https://youtu.be/4BAmpMNqPMI](https://youtu.be/4BAmpMNqPMI)
 
 ## _Inspiration_
 The driving force behind this project stems from the **growing need for personalized Ayurvedic solutions** in today's fast-paced world. As modern life places increasing demands on our well-being, there's a yearning for a **holistic approach that harmonizes our bodies, minds, and spirits.** The timeless wisdom of Ayurveda, rooted in ancient traditions, **provides a profound connection to nature and offers a path to achieving balance and vitality.**
