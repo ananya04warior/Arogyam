@@ -26,18 +26,19 @@ Key features and functionalities of our project include:
 To build **Arogyam**, our team employed a comprehensive and collaborative development approach. We began by conducting in-depth research on Ayurvedic principles, practices, and their relevance in contemporary contexts. With this knowledge as a foundation, we designed a user-friendly and intuitive interface, keeping the user's well-being journey at the forefront. The platform was built using a combination of HTML, CSS, and JavaScript to create the web application. For the app development, we utilized Java, harnessing its versatility and robustness for Android devices. We integrated various APIs, such as the Google Maps API for the nearby practitioner feature and custom APIs for personalized recommendations and allergy assessments. Extensive testing and user feedback were crucial components of the process, ensuring a seamless and secure user experience. Throughout the development cycle, we emphasized scalability, maintainability, and security to provide a reliable platform that can positively impact users seeking personalized Ayurvedic solutions.
 
 ## _Technology Stack used_
-Backend - Python, Java
-Frontend - HTML, CSS, JS, Rest API's, Jersey, TomCat 8.5
-Database -MySQL
-Mobile Application Development - Android Studio, Java, Postman
+1. Backend - Python, Java
+2. Frontend - HTML, CSS, JS, Rest API's, Jersey, TomCat 8.5
+3. Database -MySQL
+4. Mobile Application Development - Android Studio, Java, Postman
 
 ## _Challenges we ran into -_
 During the development of **Arogyam** our team encountered several challenges that required careful consideration and problem-solving. Some of the key challenges we faced include:
 
 1.  **Data Integration:** Integrating and managing diverse data sources, including Ayurvedic remedies, herb information, and practitioner databases, required careful planning to ensure accuracy and coherence in the platform.
-2. **Herb Leaf Detection:** Building the technology for herb leaf detection presented technical complexities, requiring advanced image processing and machine learning techniques.
-3. **User Experience:** Balancing a wealth of Ayurvedic information while maintaining a user-friendly and intuitive interface was a challenge, requiring continuous user feedback and iterative design improvements.
-4. **Mobile App Compatibility:** Ensuring the seamless functionality of the Java-based mobile app across various Android devices involved rigorous testing and optimization.
+2. **Limited Dataset Availability:** Despite a shortage of ayurvedic dataset, we creatively utilized available data to power Arogyam's accurate insights and recommendations, showcasing our adaptability and dedication.
+3. **Herb Leaf Detection:** Building the technology for herb leaf detection presented technical complexities, requiring advanced image processing and machine learning techniques.
+4. **User Experience:** Balancing a wealth of Ayurvedic information while maintaining a user-friendly and intuitive interface was a challenge, requiring continuous user feedback and iterative design improvements.
+5. **Mobile App Compatibility:** Ensuring the seamless functionality of the Java-based mobile app across various Android devices involved rigorous testing and optimization.
 
 ## _Accomplishments that we're proud of -_
 As a result of our dedicated efforts and collaboration, we are proud to highlight the following accomplishments achieved in **Arogyam**:
