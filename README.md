@@ -25,6 +25,12 @@ Key features and functionalities of our project include:
 ## _How we built it?_
 To build **Arogyam**, our team employed a comprehensive and collaborative development approach. We began by conducting in-depth research on Ayurvedic principles, practices, and their relevance in contemporary contexts. With this knowledge as a foundation, we designed a user-friendly and intuitive interface, keeping the user's well-being journey at the forefront. The platform was built using a combination of HTML, CSS, and JavaScript to create the web application. For the app development, we utilized Java, harnessing its versatility and robustness for Android devices. We integrated various APIs, such as the Google Maps API for the nearby practitioner feature and custom APIs for personalized recommendations and allergy assessments. Extensive testing and user feedback were crucial components of the process, ensuring a seamless and secure user experience. Throughout the development cycle, we emphasized scalability, maintainability, and security to provide a reliable platform that can positively impact users seeking personalized Ayurvedic solutions.
 
+## _Technology Stack used_
+Backend - Python, Java
+Frontend - HTML, CSS, JS, Rest API's, Jersey, TomCat 8.5
+Database -MySQL
+Mobile Application Development - Android Studio, Java, Postman
+
 ## _Challenges we ran into -_
 During the development of **Arogyam** our team encountered several challenges that required careful consideration and problem-solving. Some of the key challenges we faced include:
 
